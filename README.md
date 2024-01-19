@@ -1,5 +1,5 @@
 # Analysis of Apartments' Rent Prices in Austin, TX! (Support for User Interaction, Especially for UT Students)
-
+Team Members: Zixuan Xu, Munazza Ilyas, Suqian Qi, Aahil Navroz, Joseph Williams
 
 ## A. Data Collection and Cleaning
  
